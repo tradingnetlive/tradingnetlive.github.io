@@ -1,0 +1,15 @@
+[METADATA]
+modified = "2026-05-29"
+expires = "2027-05-29"
+
+[[ACCOUNTS]]
+address = "rHRsTYkbmPxQRG3Pgbe6btCcrgWrM5tubV"
+desc = "TNL Coin Issuer Wallet"
+
+[[CURRENCIES]]
+code = "TNL"
+issuer = "rHRsTYkbmPxQRG3Pgbe6btCcrgWrM5tubV"
+name = "TNL Coin"
+desc = "TNL Coin — Official token of TradingNetlive.com"
+icon = "https://tradingnetlive.com/tnl-logo.png"
+website = "https://tradingnetlive.com"
