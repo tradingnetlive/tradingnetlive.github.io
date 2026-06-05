@@ -7,9 +7,9 @@ address = "rHRsTYkbmPxQRG3Pgbe6btCcrgWrM5tubV"
 desc = "TNL Coin Issuer Wallet"
 
 [[CURRENCIES]]
-code = "544E4C0000000000000000000000000000000000"
+code = "544E4C0000000000000000000000000000000000
 issuer = "rHRsTYkbmPxQRG3Pgbe6btCcrgWrM5tubV"
 name = "TNL Coin"
-desc = "TNL Coin — Official token of TradingNetlive.com"
+desc = "TNL Coin - Official token of TradingNetlive.com"
 icon = "https://tradingnetlive.github.io/tnl-logo.jpeg"
 website = "https://tradingnetlive.com"
